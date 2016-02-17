@@ -1,0 +1,6 @@
+node_modules/
+typings/browser
+typings/browser.d.ts
+*.map
+*.log
+intimate.db

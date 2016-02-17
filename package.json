@@ -1,0 +1,20 @@
+{
+  "name": "intimate-education",
+  "version": "1.0.0",
+  "description": "IntimateEducation.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Carl Winkler",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^1.7.5"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  }
+}
